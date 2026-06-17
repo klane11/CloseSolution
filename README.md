@@ -1,6 +1,6 @@
 # Close Fiddle Challenge
 
-Live demo: https://jsfiddle.net/07ohLmc4/12/
+Live demo: [https://jsfiddle.net/07ohLmc4/12/](https://jsfiddle.net/07ohLmc4/13/)
 
 ## What I built
 
